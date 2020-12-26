@@ -1,3 +1,3 @@
 # gregbehm.github.io
 
-## Testing GitHub pages
+# Testing GitHub pages
