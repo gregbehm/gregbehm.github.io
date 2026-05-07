@@ -101,7 +101,7 @@ share-s-active:
 
 # How to display the  to your  in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "gregbehm.com"
+#url-pretty: "gregbehm.com"
 
 # Add the  title to the title of every page
 title-on-all-pages: true
